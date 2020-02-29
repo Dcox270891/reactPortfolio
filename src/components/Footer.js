@@ -1,7 +1,7 @@
 import React from "react";
 
 function Footer() {
-    return(<footer class="container bottom-bar">
+    return(<footer className="container bottom-bar">
             copyright 
         </footer>);
 };
